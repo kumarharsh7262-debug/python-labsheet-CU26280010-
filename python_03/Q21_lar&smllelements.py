@@ -1,0 +1,5 @@
+# find largest and smallest elements 
+numbers = [10, 25, 5, 40, 15]
+
+print("Largest =", max(numbers))
+print("Smallest =", min(numbers))
